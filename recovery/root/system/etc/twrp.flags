@@ -20,7 +20,7 @@
 /scp1			emmc		/dev/block/by-name/scp1
 /sspm_1			emmc		/dev/block/by-name/sspm_1
 
-#Auto-generated code by FOTA Portal
+# Auto-generated code by FOTA Portal
 /gz1			emmc		/dev/block/by-name/gz1
 /optics_image	emmc		/dev/block/by-name/optics							flags=backup=1;display="Optics Image";flashimg=1
 /param			emmc		/dev/block/by-name/param							flags=backup=1;display="Param"

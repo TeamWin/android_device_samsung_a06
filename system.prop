@@ -1,4 +1,4 @@
-ro.display.series=Samsung A06
+ro.display.series=Samsung Galaxy A06
 ro.board.platform=mt6768
 sys.usb.controller=musb-hdrc
 ro.boot.dynamic_partitions=true
